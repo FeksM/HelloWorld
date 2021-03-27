@@ -1,1 +1,2 @@
-console.log("Hello World")
+let first name = "feke"
+let greeting = "hello"
